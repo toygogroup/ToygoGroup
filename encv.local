@@ -1,0 +1,7 @@
+# إعدادات سوبابيز
+SUPABASE_URL = "https://plfipwrhcvtdlcfpgnyn.supabase.co"
+SUPABASE_KEY = "المفتاح_الذي_أرسلته_لك"
+
+# إعدادات فايربيز
+FIREBASE_API_KEY = "AIzaSyDicWiM-BcVseqnKesvlfTQpBfzHBfi4P8"
+FIREBASE_AUTH_DOMAIN = "toygo-group.firebaseapp.com"
